@@ -4,7 +4,7 @@ A machine learning approach to predicting the stock market. Not recommended for 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 I am working on posting algotrade versions that do not require to be a daytrader. I have them built, but need to find them.
-Note: Nvidia based Graphics Card Recommended
+Note: Nvidia based Graphics Card Recommended. 
 Successfully Built on Windows Machine
 ### Prerequisites
 
